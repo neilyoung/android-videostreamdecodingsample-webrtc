@@ -79,7 +79,7 @@ public class MainActivity extends Activity implements  StreamerEvents {
 
         // You need to obtain licenseKey and userId beforehand
         // Please get yourself a time limited test credential at
-        // https://webrtcdemo.ddns.net/licensed
+        // https://webrtcserver.ddns.net/licensed
 
         StreamerConfig config = new StreamerConfig.Builder()
                 .setUserId("your-djistreamerlib-userid-here")           // MANDATORY
